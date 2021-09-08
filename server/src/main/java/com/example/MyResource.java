@@ -13,7 +13,9 @@ public class MyResource {
   }
 
   //TODO: Add javadoc comment
-  public String getit() {
-    return String.format("Hello World!");
+  public static String getit() {
+    return ("Hello World!");
   }
 }
+
+
