@@ -13,6 +13,7 @@
         <li>Understanding Requirements and Installing Prerequisites</li>
         <li>Installing Eclipse for creating Java EE project</li>
       </ul>
+      <p> </p>
       <li>Step2: Devlope Java Http code with Mocing with Junit and Maven</li>
       <ul>
         <li>Create a new Maven project in Eclipse IDEA </li>
@@ -20,15 +21,18 @@
         <li>Write code with creating new class with Junit test</li>
         <li>Check for any errors and debug code</li>
       </ul>
+      <p> </p>
       <li>Step3: Push code into git for source code management</li>
       <ul>
         <li>Create a new repository in github</li>
         <li>Push the written JavaEE code into Github</li>
       </ul>
+      <p> </p>
       <li>Step4: Create a AWS free tier and Create Ec2 instances</li>
       <ul>
         <li>To run CI/CD on Jenkins and Tomcat server virtual server are required here AWS was used</li>
       </ul>
+      <p> </p>
       <li>Step5: Create a Jenkins Job</li>
       <ul>
         <li>Create a Ec2 instance with name Jenkins and Insatll Java, Maven, Jenkins and required packages</li>
@@ -36,6 +40,7 @@
         <li>In the manage Jenkins Edit Global Tool Configuration</li>
         <li>Create Maven Job with Git for source code and build</li>
       </ul>
+      <p> </p>
       <li>Step6: Deploy war file on Ubuntu instance</li>
       <ul>
         <li>Install tomcat server on Ec2 insatance</li>
