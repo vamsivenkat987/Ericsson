@@ -8,7 +8,7 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import static org.junit.matchers.JUnitMatchers.containsString;
 
-public class TestMain {
+public class TestMyResource {
 
   private MyResource myResource;
 
@@ -26,3 +26,5 @@ public class TestMain {
 
 
 }
+
+
