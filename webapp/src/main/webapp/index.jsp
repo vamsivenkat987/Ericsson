@@ -1,7 +1,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Welcome Ericsson</title>
   </head>
   <body style="background-color:powderblue;">
     <h1>Hello World!</h1>
